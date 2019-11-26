@@ -19,14 +19,14 @@ Neste projeto foi calculado o total de questões que acertei na primeira fase da
 
 Dados da minha Fuvest 2020
 
-Matemática: Acertei 9 de 12 questões => 75%
-História: Acertei 8 de 11 questões => 72%
-Português: Acertei 3 de 6 questões => 50%
-Literatura: Acertei 4 de 10 questões => 40%
-Química: Acertei 9 de 12 questões => 75%
-Biologia: Acertei 5 de 10 questões => 50%
-Física: Acertei 9 de 11 questões => 81%
-Inglês: Acertei 7 de 7 questões => 100%
+Matemática: Acertei 9 de 12 questões => 75%\
+História: Acertei 8 de 11 questões => 72%\
+Português: Acertei 3 de 6 questões => 50%\
+Literatura: Acertei 4 de 10 questões => 40%\
+Química: Acertei 9 de 12 questões => 75%\
+Biologia: Acertei 5 de 10 questões => 50%\
+Física: Acertei 9 de 11 questões => 81%\
+Inglês: Acertei 7 de 7 questões => 100%\
 Geografia: Acertei 7 de 11 questões => 63%
 
 Acertei 61 questões de 90.
