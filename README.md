@@ -33,7 +33,7 @@ Acertei 61 questões de 90.
 
 ### Gráfico
 
-
+![Gráfico](https://github.com/carlosenmm/Projeto-3---Fuvest/blob/master/plot.png)
 
 ## Alguns links usados
 
